@@ -1,0 +1,8 @@
+fpdf~=1.7.2
+fastapi~=0.66.0
+uvicorn~=0.13.4
+num2words~=0.5.10
+black~=21.6b0
+environs~=9.3.5
+requests~=2.25.1
+pyairtable~=1.0.0.post1
